@@ -11,7 +11,8 @@ git push origin master or branch name = upload proyect to github
 git pull origin master or branch name = download proyect to local computer
 # HOW TO REVIEW SAVE NEW CHANGES
 git status = to check if there is any modified file
-git add -a = to accept all changes
+git add -A = to accept all changes
 git commit -am "message" = to leave an updated or message status of the change
 git log = to check if the commit was stored
 git status = to check if there is any other modified file
+git push origin master = to upload the changes to github

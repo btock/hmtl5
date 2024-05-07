@@ -12,6 +12,7 @@ es una pagina web de practicas y estilos de html5 y css
 * git commit -am "message" = save the commit and leave a message
 * git push origin master or branch name = upload proyect to github
 * git pull origin master or branch name = download proyect to local computer
+* git add/rm <filename>... to update or remove a file created)
 ***
 # HOW TO REVIEW SAVE NEW CHANGES
 ***

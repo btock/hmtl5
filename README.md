@@ -23,3 +23,7 @@ es una pagina web de practicas y estilos de html5 y css
 * git status = to check if there is any other modified file
 * git push origin master = to upload the changes to github
 ***
+# DELETE A BRANCH REMOTE FROM GIT
+* git branch -a = list all branches from the repository github
+* git push origin -d branch-name = deletes a branch from the github project 
+***

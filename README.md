@@ -29,6 +29,7 @@ es una pagina web de practicas y estilos de html5 y css
 ***
 # starting GIT
 ***
+```
 1. git config --global user.name "name" = assign git name
 2. git config --global user.name = verify the git name
 3. git config --global user.email "email" = configure email"
@@ -48,4 +49,5 @@ es una pagina web de practicas y estilos de html5 y css
     a. git reset --soft = simply dont touch our working area
     b. git reset --mixed =  deletes staging area, dont touch working area
     c. git reste --hard = deletes all
+```
 ***

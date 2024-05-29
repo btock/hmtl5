@@ -73,3 +73,33 @@ La fusión en Git combina secuencias de confirmaciones en un solo historial unif
     b. manual merge = long and manual, Before doing the merger you have to go through us
 6. 
 ```
+# git & github
+***
+```
+1. git clone (copiamos el link https)= nos sirve para clonar (descargar un proyecto), toma proyecto de github y lo traslada a nuestra computadora
+    a. para clonar un proyecto copianos el HTTPS link que viene en el proyecto de github
+```
+### upload our proyect to github
+```
+1. crear un repositorio en github
+    a. repositorio remoto = se encuentra en github
+    b. repositorio local = se encuentra en nuestra computadora
+```
+![1 create repository](https://github.com/btock/htmlcsstest/assets/14008255/acef8586-848a-4f5f-bc17-5b82aab832dc)
+![2 https link github](https://github.com/btock/htmlcsstest/assets/14008255/c5c142b8-f83a-46f0-bc6e-bbf327b1a6d9)
+```
+2. git remote add origin (paste https link)= vincula nuestro proyecto local con nuestro proyecto remoto
+3. git remote -v = muestra la conexion hacia el proyecto de github
+4. git remote remove origin = remueve la conexion de proyecto github
+```
+![3 git remote github](https://github.com/btock/htmlcsstest/assets/14008255/89468f6e-46dd-42aa-828a-fd44e2cbd483)
+```
+5. git push origin master = envia los commits a gihub (envia de repositorio local a repositorio remoto)
+    a. master es el nombre de la rama que queremos subir, si la rama tiene otro nombre entonces lo cambiamos
+6. nos solicitara usuario y contrasena de github para subir los cambios
+```
+
+
+
+
+
